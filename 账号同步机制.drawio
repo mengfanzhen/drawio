@@ -1,1 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T06:27:46.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="16.6.6" etag="qG26kzqBYevpooO-T2sZ" type="github"><diagram id="vf28aWTB2zM8t-4I8SsF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-07T06:47:50.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="y9IX9H9kabNszBrKk1DH" version="16.6.6" type="github">
+  <diagram id="vf28aWTB2zM8t-4I8SsF" name="Page-1">
+    <mxGraphModel dx="1185" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nP9HzRWblQ0S7OJkJA8b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.106;entryY=0.689;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nP9HzRWblQ0S7OJkJA8b-1" target="nP9HzRWblQ0S7OJkJA8b-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nP9HzRWblQ0S7OJkJA8b-11" value="实时同步账号到成员系统" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nP9HzRWblQ0S7OJkJA8b-7">
+          <mxGeometry x="0.308" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nP9HzRWblQ0S7OJkJA8b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nP9HzRWblQ0S7OJkJA8b-1" target="nP9HzRWblQ0S7OJkJA8b-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="233" />
+              <mxPoint x="240" y="138" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nP9HzRWblQ0S7OJkJA8b-10" value="成员系统定时获取账号变更信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nP9HzRWblQ0S7OJkJA8b-8">
+          <mxGeometry x="0.3874" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nP9HzRWblQ0S7OJkJA8b-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nP9HzRWblQ0S7OJkJA8b-1" target="nP9HzRWblQ0S7OJkJA8b-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="233" />
+              <mxPoint x="240" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nP9HzRWblQ0S7OJkJA8b-12" value="在账户同步中心与成员系统建立映射表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nP9HzRWblQ0S7OJkJA8b-9">
+          <mxGeometry x="0.2989" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nP9HzRWblQ0S7OJkJA8b-1" value="账户同步中心表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="213" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nP9HzRWblQ0S7OJkJA8b-2" value="成员系统1&lt;br&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.enterprise.database_server" vertex="1" parent="1">
+          <mxGeometry x="570" y="124" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP9HzRWblQ0S7OJkJA8b-5" value="成员系统2" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.enterprise.database_server" vertex="1" parent="1">
+          <mxGeometry x="570" y="213" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP9HzRWblQ0S7OJkJA8b-6" value="成员系统3" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.enterprise.database_server" vertex="1" parent="1">
+          <mxGeometry x="570" y="311.5" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
