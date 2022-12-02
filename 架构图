@@ -1,1 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T09:19:11.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="20.5.3" etag="NvO94Tu7jYiJ5g9dnpAk" type="github"><diagram id="NjsTtVaHJXm5R9ruAgyv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-02T09:36:58.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Lvi32MjlCdSdcIDxJ8I6" version="20.5.3" type="github">
+  <diagram id="NjsTtVaHJXm5R9ruAgyv" name="第 1 页">
+    <mxGraphModel dx="1422" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.02;entryY=0.829;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vC3XDIRrgm03nBXcrd9X-44" target="vC3XDIRrgm03nBXcrd9X-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-44" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="376.5" width="540" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vC3XDIRrgm03nBXcrd9X-34" target="vC3XDIRrgm03nBXcrd9X-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.98;entryY=0.179;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vC3XDIRrgm03nBXcrd9X-34" target="vC3XDIRrgm03nBXcrd9X-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vC3XDIRrgm03nBXcrd9X-34" target="vC3XDIRrgm03nBXcrd9X-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.35;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vC3XDIRrgm03nBXcrd9X-34" target="vC3XDIRrgm03nBXcrd9X-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.628;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vC3XDIRrgm03nBXcrd9X-34" target="vC3XDIRrgm03nBXcrd9X-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-34" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="300" width="295" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.029;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vC3XDIRrgm03nBXcrd9X-29" target="vC3XDIRrgm03nBXcrd9X-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-29" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="221" width="295" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vC3XDIRrgm03nBXcrd9X-1" target="vC3XDIRrgm03nBXcrd9X-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-1" value="UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="106" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vC3XDIRrgm03nBXcrd9X-3" target="vC3XDIRrgm03nBXcrd9X-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-3" value="负载均衡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="156" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-4" value="应用服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="236" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-5" value="应用服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="236" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-6" value="调度服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-7" value="调度服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-8" value="执行器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="401" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-9" value="执行器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="401" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-10" value="执行器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="401" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-11" value="执行器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="401" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-12" value="Hadoop集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="484" width="140" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-26" value="应用数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="230" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-42" value="ZK服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="50" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-52" value="Spark集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="484" width="140" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-53" value="Flink集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="484" width="140" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3XDIRrgm03nBXcrd9X-54" value="...." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="484" width="140" height="38" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
